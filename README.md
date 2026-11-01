@@ -9,7 +9,7 @@ Knowledge Bases, measured at 0.83 recall at 3 on a 12 question set.
 ## Everything else
 | Module | What I built | Services |
 |---|---|---|
-| 03 | PII redaction pipeline | Comprehend, S3 |
+
 
 ## About me
 One or two sentences. What you are looking for.
